@@ -133,4 +133,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Support
 
-If you need help with deployment or customization, please open an issue on GitHub or contact us through the website's contact form. 
+If you need help with deployment or customization, please open an issue on GitHub or contact us through the website's contact form.
